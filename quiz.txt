@@ -1,0 +1,6 @@
+Which is the fastest animal ?#a) Elephant b) Cheetah#b
+Which is the longest river ?#a) Nile b) Ganges#a
+what is your name ?#a) faruq b) kaieum#a
+what is your father name ?#a) karim b) kaieum#a
+what is your mother name ?#a) karim b) shamsunnahar#b
+what is your brother name ?#a) kaieum b) abir c)both
